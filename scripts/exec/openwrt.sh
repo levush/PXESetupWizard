@@ -8,7 +8,7 @@ source ../config.sh
 exit 0
 
 # Temp paths and files
-OPENWRT_VNUM="18.06.4"
+OPENWRT_VNUM="19.07.5"
 export SRC_PKG="http://downloads.openwrt.org/releases/${OPENWRT_VNUM}/targets/x86/64/openwrt-${OPENWRT_VNUM}-x86-64-combined-squashfs.img"
 export TRG_NME="openwrt"
 export TRG_PKG=$TRG_NME".img"

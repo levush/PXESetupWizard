@@ -4,6 +4,7 @@
 cd $(dirname "$0")
 . ../config.sh
 
+#http://chameleon.osx86.hu/file_download/45/Chameleon-2.2svn-r2404-binaries.tar.gz&
 # Temp paths and files
 export SRC_PKG="http://chameleon.osx86.hu/file_download/42/Chameleon-2.1-r2069.iso.zip"
 export TRG_NME="charmeleon"

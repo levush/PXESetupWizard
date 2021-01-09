@@ -5,10 +5,12 @@ cd $(dirname "$0")
 . ../config.sh
 
 # Version of memtest
-MT_VER="memtest86+-5.01"
+MT_VER="memtest86+-5.31b"
+
+#https://www.memtest.org/download/5.31b/memtest86+-5.31b.bin.gz
 
 # Temp paths and files
-export SRC_PKG="http://www.memtest.org/download/5.01/"$MT_VER".bin.gz"
+export SRC_PKG="http://www.memtest.org/download/5.31b/"$MT_VER".bin.gz"
 export TRG_NME=$MT_VER
 export TRG_PKG=$TRG_NME".bin.gz"
 
