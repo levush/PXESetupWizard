@@ -168,7 +168,3 @@ subnet 192.168.1.0 netmask 255.255.255.0 {
 ## License
 All files are under GNU General Public License v3
 
-### Donations (BTC)
-*Please consider support the project donating to the Bitcoin address below:*
-
-17q6RT31yEJAptrUzXhwEq5iPwEguEFFBG
